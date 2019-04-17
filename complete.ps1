@@ -1,11 +1,11 @@
-# Powershell version 4 needed !!
+﻿# Powershell version 4 needed !!
 # Works on Windows OS , tested Win7 and Win10
 # Prerequisites
 # An Flash-Drive labeled "FORENSICS"
 # A folder SUSPECT will be created with subfolders
 # Memory image is named: memory.raw
 # Physical image is named: physical.001
-# powershell.exe C:\complete.ps1
+# powershell.exe G:\complete.ps1
 
 $AllProtocols = [System.Net.SecurityProtocolType]'Tls11,Tls12'
 [System.Net.ServicePointManager]::SecurityProtocol = $AllProtocols
