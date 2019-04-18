@@ -19,6 +19,9 @@ I believe in 1-2 days from 18.04.2019 this should be fixed.
 1) Digispark attiny85
 2) FlashDrive labeled "FORENSICS"
 3) Suspect needs Admin rights
+   a) When suspect machine is not admin then
+   -) Disable UAC , see instruction with following [link](https://www.faqforge.com/windows/how-to-disable-the-user-account-control-uac-in-windows-10/)
+   -) Disable Windows Defender, see instrcutions with following [link]()
 4) At least Powershell version 4 needed
 3) [Arduino IDE](https://www.arduino.cc/en/main/software)<br/>
   a) Follow the Install instructions from [Digistump.com](https://digistump.com/wiki/digispark/tutorials/connecting)<br/>
