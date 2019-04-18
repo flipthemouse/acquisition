@@ -7,7 +7,8 @@ For windows 7 you need to adjust the command which calls the command prompt with
 Or after you plugged in the flash-drive press "Windows logo key+ R" after you are done in Windows 7 the script starts again so unplug it before a new run in Windows 10 it runs just once. Windows 7 support ends in January 2020. ;-)
 
 If you like my effort, help me to create more.
-It might take 1 or 2 days from 18.04.2019 until the donation button works.
+Paypal is currently sleeping that's why the button doesn't work yet. :-(
+I believe in 1-2 days from 18.04.2019 this should be fixed.
 
 # Donation Button
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBVUYZZW9JP56)
