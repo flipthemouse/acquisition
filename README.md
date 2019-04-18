@@ -1,5 +1,5 @@
-# Automatic Forensic Acquisition toolset
- **Windows OS with Digispark attiny85**
+# Automatic Forensic Acquisition toolset<br/>
+ **Windows OS with Digispark attiny85**<br/>
 Automatic Forensic Acquisition for Windows 10 and also works on Win7 using wimpmem and ftkimager.<br/>
 Other Windows OS not been tested yet.<br/>
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
