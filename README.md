@@ -1,9 +1,9 @@
 # Automatic Forensics Acquisition Toolset<br/>
  **Digispark attiny85**<br/>
 Supports **Windows 10** and **7** <br/>
-Using **wimpmem** and **ftkimager**.<br/>
-Other Windows OS not been tested yet.<br/>
-**Linux/Unix support under development.**<br/><br/>
+Using **wimpmem** and **ftkimager**<br/>
+Other Windows OS not been tested yet<br/>
+**Linux/Unix support under development**<br/><br/>
 Product under **GNU General Public License**<br/><br/>
 The script needs approx. 20 seconds to download payload from this repo to C: drive (approx. 8MB) which will be deleted at the end of the acquisition process. Then a memory and a physical disk image from your suspects machine should be stored on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Date and time/ .The script will run once. <br/><br/>
 For windows 7 you need to increase the delay time.<br/>
