@@ -25,7 +25,7 @@ I believe in 1-2 days from 18.04.2019 this should be fixed.
    -) You can also use [Disable-UAC.ps1](https://github.com/flipthemouse/acquisition/blob/master/Disable-UAC.ps1) from [Microsoft Script center](https://gallery.technet.microsoft.com/scriptcenter/Disable-UAC-using-730b6ecd).<br/>
    -) Disable Windows Defender, see instrcutions with following [link](https://www.wikihow.com/Turn-Off-Windows-Defender-in-Windows-10)<br/>
 4) **At least Powershell version 4 needed on suspects machine**
-3) **[Arduino IDE]**(https://www.arduino.cc/en/main/software)<br/>
+3) **[Arduino IDE](https://www.arduino.cc/en/main/software)**<br/>
   a) Follow the Install instructions from [Digistump.com](https://digistump.com/wiki/digispark/tutorials/connecting)<br/>
   b) Add the [DigiKeyboardDe.h](https://github.com/flipthemouse/acquisition/blob/master/DigiKeyboardDe.h) file to your Arduino project if you use a German keyboard.<br/>
 4) **[Code](https://github.com/flipthemouse/acquisition/blob/master/WinFor-payload.txt)**<br/>
