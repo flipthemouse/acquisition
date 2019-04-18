@@ -2,7 +2,7 @@
  **Windows OS with Digispark attiny85**<br/>
 For Windows 10 and Win7 using wimpmem and ftkimager.<br/>
 Other Windows OS not been tested yet.<br/>
-Product under **GNU General Public License**
+Product under **GNU General Public License**<br/>
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
 For windows 7 you need to increase the delay time.<br/>
 The script should run just once. Windows 7 support ends in January 2020. ;-) <br/>
