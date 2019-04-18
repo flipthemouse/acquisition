@@ -44,10 +44,10 @@ I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
 6) Unplug and safe it for future forensics tasks.<br/>
 
 # NO DIGISPARK <br/>
-1) Plug your flash-drive (labeled "FORENSICS) into suspects machine.  <br/>
-2) Just copy [complete-no-digispark.ps1](https://github.com/flipthemouse/acquisition/blob/master/complete-no-digispark.ps1) to suspect (C:\).<br/>
-3) Start powershell with admin rights<br/>
-4) C:\complete-no-digispark.ps1<br/>
+1) Plug your **flash-drive (labeled "FORENSICS)** into suspects machine.  <br/>
+2) Just copy **[complete-no-digispark.ps1](https://github.com/flipthemouse/acquisition/blob/master/complete-no-digispark.ps1)** to suspect (C:\).<br/>
+3) **Start powershell with admin rights**<br/>
+4) **C:\complete-no-digispark.ps1**<br/>
 5) That's it :-)<br/>
 
   
