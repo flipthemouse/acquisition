@@ -1,10 +1,10 @@
 # acquisition
 Forensics acquisition
 
-Automatic payload for Forensic Acquisition with Windows 7 and 10 using wimpmem and ftkimager, other Windows OS not tested yet.
-The script needs approx 20 seconds to download payload from this repo and to start the acquisition.
-At the end you will have a memory.raw file and a physical disk image from your suspect on a flash-drive labeled "FORENSICS" 
-in the folder SUSPECT/<Date and time of start>/
+Automatic Forensic Acquisition for Windows 7 and 10 using wimpmem and ftkimager, other Windows OS not tested yet.<br/>
+The script needs approx 20 seconds to download payload from this repo and to start the acquisition.<br/>
+At the end you will have a memory.raw file and a physical disk image from your suspect on a flash-drive labeled "FORENSICS" <br/>
+in the folder SUSPECT/<Date and time of start>/ <br/>
 
 # PREREQUISITES:
 1) Digispark attiny85
