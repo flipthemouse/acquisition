@@ -2,9 +2,11 @@
 Forensics acquisition
 
 Automatic Forensic Acquisition for Windows 7 and 10 using wimpmem and ftkimager, other Windows OS not tested yet.<br/>
-The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/> 
+The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/>
+For windows 7 you need to adjust the command which calls the command prompt with DigiKeyboard.sendKeyStroke(KEY_R , MOD_GUI_LEFT).
+Or after you plugged in the flash-drive press "Windows logo key+ R" after you are done in Windows 7 the script starts again so unplug it before a new run in Windows 10 it runs just once. Windows 7 support ends in January 2020. ;-)
 
-If you like it, help me to create more.
+If you like my effort, help me to create more.
 It might take 1 or 2 days from 18.04.2019 until the donation button works.
 
 # Donation Button
