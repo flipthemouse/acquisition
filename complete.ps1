@@ -6,6 +6,7 @@
 # Memory image is named: memory.raw
 # Physical image is named: physical.001
 # powershell.exe drive:\complete.ps1
+# Under GNU General Public License
 
 $AllProtocols = [System.Net.SecurityProtocolType]'Tls11,Tls12'
 [System.Net.ServicePointManager]::SecurityProtocol = $AllProtocols
