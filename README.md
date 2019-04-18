@@ -5,8 +5,8 @@ Other Windows OS not been tested yet.<br/>
 Product under **GNU General Public License**<br/><br/>
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
 For windows 7 you need to increase the delay time.<br/>
-The script should run just once. Windows 7 support ends in January 2020. ;-) <br/>
-I am still working on it.<br/><br/>
+The script should run just once. <br/>
+Windows 7 support ends in January 2020. ;-) <br/><br/>
 If you like my effort, help me to create more.
 Paypal is currently sleeping that's why the button doesn't work yet. :-( <br/>
 I believe in 1-2 days from 18.04.2019 this should be fixed.
