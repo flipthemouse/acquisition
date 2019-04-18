@@ -5,14 +5,13 @@ Using **wimpmem** and **ftkimager**.<br/>
 Other Windows OS not been tested yet.<br/>
 **Linux/Unix support under development.**<br/><br/>
 Product under **GNU General Public License**<br/><br/>
-The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory and a physical disk image from your suspects machine stored on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
+The script needs approx 20 seconds to download payload from this repo to C: drive (approx. 8MB) which will be deleted at the end of the acquisition process. Then a memory and a physical disk image from your suspects machine should be stored on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Date and time/ . <br/><br/>
 For windows 7 you need to increase the delay time.<br/>
 The script should run just once. <br/>
 Windows 7 support ends in January 2020. ;-) <br/><br/>
-If you like my effort, help me to create more.
+If you like my effort, you can show your appreciation.<br/><br/>
 Paypal is currently sleeping that's why the button doesn't work yet. :-( <br/>
-I believe in 1-2 days from 18.04.2019 this should be fixed.
-
+I believe in 1-2 days from 18.04.2019 this should be fixed.<br/>
 # Donation Button
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBVUYZZW9JP56)
 
