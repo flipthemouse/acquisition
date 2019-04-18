@@ -5,6 +5,7 @@ Automatic Forensic Acquisition for Windows 7 and 10 using wimpmem and ftkimager,
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/> 
 
 If you like it, help me to create more.
+It might take 1 or 2 days from 18.04.2019 until the donation button works.
 
 # Donation Button
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBVUYZZW9JP56)
