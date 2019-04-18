@@ -6,7 +6,7 @@ The script needs approx 20 seconds to download payload from this repo and to sta
 At the end you will have a memory.raw file and a physical disk image from your suspect on a flash-drive labeled "FORENSICS" 
 in the folder SUSPECT/<Date and time of start>/<br/>
 
-##Prerequisites##:
+# PREREQUISITES:
 1) Digispark attiny85
 2) FlashDrive labeled "FORENSICS"
 3) Suspect needs Admin rights
