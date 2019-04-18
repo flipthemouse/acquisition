@@ -5,7 +5,7 @@
 # A folder SUSPECT will be created with subfolders
 # Memory image is named: memory.raw
 # Physical image is named: physical.001
-# powershell.exe G:\complete.ps1
+# powershell.exe drive:\complete.ps1
 
 $AllProtocols = [System.Net.SecurityProtocolType]'Tls11,Tls12'
 [System.Net.ServicePointManager]::SecurityProtocol = $AllProtocols
