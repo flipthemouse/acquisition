@@ -11,7 +11,7 @@ The script should run just once. <br/>
 Windows 7 support ends in January 2020. ;-) <br/><br/>
 **If you like my effort, you can show your appreciation.**<br/><br/>
 Paypal is currently sleeping that's why the button doesn't work yet. :-( <br/>
-I believe in 1-2 days from 18.04.2019 this should be fixed.<br/>
+I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
 # Donation Button
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BBVUYZZW9JP56)
 
