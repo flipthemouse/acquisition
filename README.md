@@ -1,7 +1,6 @@
-# acquisition
-Forensics acquisition
+# Automatic Forensic Acquisition toolset for Windows OS with Digispark attiny85
 
-Automatic Forensic Acquisition for Windows 7 and 10 using wimpmem and ftkimager, other Windows OS not tested yet.<br/>
+Automatic Forensic Acquisition for Windows 10 and also works on Win7 using wimpmem and ftkimager, other Windows OS not been tested yet.<br/>
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory.raw and a physical disk image from your suspects machine on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
 For windows 7 you need to adjust the command which calls the command prompt with DigiKeyboard.sendKeyStroke(KEY_R , MOD_GUI_LEFT).<br/>
 Or after you plugged in the flash-drive press "Windows logo key+ R" and then plug the Digispark in  the suspects usb port. Also the script restarts again in Win7  so unplug it before a new run. In Windows 10 it runs just once as expected and coded. Windows 7 support ends in January 2020. ;-) <br/><br/>
