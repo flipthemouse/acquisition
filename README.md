@@ -3,6 +3,7 @@
 Supports **Windows 10** and **7** <br/>
 Using **wimpmem** and **ftkimager**.<br/>
 Other Windows OS not been tested yet.<br/>
+**Linux/Unix support under development.**<br/>
 Product under **GNU General Public License**<br/><br/>
 The script needs approx 20 seconds to download payload from this repo to C: drive (approx 8MB) which will be deleted at the end of the acquisition process. Then you will have a memory and a physical disk image from your suspects machine stored on the plugged flash-drive labeled "FORENSICS" in the folder SUSPECT/Datea and time of start/ . <br/><br/>
 For windows 7 you need to increase the delay time.<br/>
