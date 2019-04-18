@@ -23,7 +23,7 @@ I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
 3) **Suspect needs Admin rights**<br/>
    a) When suspect machine is not admin then get admin credentials and proceed with <br/>
    -) Disable UAC , see instruction with following [link](https://www.faqforge.com/windows/how-to-disable-the-user-account-control-uac-in-windows-10/)<br/>
-   -) You can also use [Disable-UAC.ps1](https://github.com/flipthemouse/acquisition/blob/master/Disable-UAC.ps1) from [Microsoft Script center](https://gallery.technet.microsoft.com/scriptcenter/Disable-UAC-using-730b6ecd).<br/>
+      o) You can also use [Disable-UAC.ps1](https://github.com/flipthemouse/acquisition/blob/master/Disable-UAC.ps1) from [Microsoft Script center](https://gallery.technet.microsoft.com/scriptcenter/Disable-UAC-using-730b6ecd).<br/>
    -) Disable Windows Defender, see instrcutions with following [link](https://www.wikihow.com/Turn-Off-Windows-Defender-in-Windows-10)<br/>
 4) **At least Powershell version 4 needed on suspects machine**
 3) **[Arduino IDE](https://www.arduino.cc/en/main/software)**<br/>
