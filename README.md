@@ -1,4 +1,4 @@
-# Automatic Forensic Acquisition Toolset<br/>
+# Automatic Forensics Acquisition Toolset<br/>
  **Windows OS with Digispark attiny85**<br/>
 Automatic Forensic Acquisition for Windows 10 and also works on Win7 using wimpmem and ftkimager.<br/>
 Other Windows OS not been tested yet.<br/>
