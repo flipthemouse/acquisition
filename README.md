@@ -25,9 +25,9 @@ I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
    -) Disable UAC , see instruction with following [link](https://www.faqforge.com/windows/how-to-disable-the-user-account-control-uac-in-windows-10/)<br/>
    -) You can also use [Disable-UAC.ps1](https://github.com/flipthemouse/acquisition/blob/master/Disable-UAC.ps1) from [Microsoft Script center](https://gallery.technet.microsoft.com/scriptcenter/Disable-UAC-using-730b6ecd).<br/>
    -) Disable Windows Defender, see instrcutions with following [link](https://www.wikihow.com/Turn-Off-Windows-Defender-in-Windows-10)<br/>
-4) **At least Powershell version 4 needed on suspects machine**
+4) **At least Powershell version 4 needs to be installed on suspects machine**
 3) **[Arduino IDE](https://www.arduino.cc/en/main/software)**<br/>
-  a) Follow the Install instructions from [Digistump.com](https://digistump.com/wiki/digispark/tutorials/connecting)<br/>
+  a) Follow the Install Instructions from [Digistump.com](https://digistump.com/wiki/digispark/tutorials/connecting)<br/>
   b) Add the [DigiKeyboardDe.h](https://github.com/flipthemouse/acquisition/blob/master/DigiKeyboardDe.h) file to your Arduino project if you use a German keyboard.<br/>
 4) **[Code](https://github.com/flipthemouse/acquisition/blob/master/WinFor-payload.txt)**<br/>
   a) If you add something or change be aware that the Digispark has limited storage (8K).<br/>
@@ -38,8 +38,9 @@ I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
   
 # Upload to DigiSpark
 1) Open prepared Arduino IDE
-2) Paste the code into new sketch, save and verify code
-3) Press the upload button, wait for message to plugin Digispark attiny85
-4) Plug in Digispark attiny85, waith approx 5 seconds and for the success message
+2) Paste the code into new sketch, save and verify code.
+3) Press the upload button, wait for message to plugin Digispark attiny85.
+4) Plug in Digispark attiny85, wait for the success message.
 5) When everything was successfull , you should see the payload automatically running.
+6) Unplug and safe it for future forensics tasks.
   
