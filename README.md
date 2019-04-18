@@ -42,4 +42,12 @@ I believe in 1-2 workdays from 18.04.2019 this should be fixed.<br/>
 4) Plug in Digispark attiny85, wait for the success message.<br/>
 5) When everything was successfull , you should see the payload automatically running.<br/>
 6) Unplug and safe it for future forensics tasks.<br/>
+
+No Digispark
+1) Plug your flash-drive (labeled "FORENSICS) into suspects machine.  
+2)Just copy [complete-no-digispark.ps1](https://github.com/flipthemouse/acquisition/blob/master/complete-no-digispark.ps1) to suspect (C:\).
+3) Start powershell with admin rights
+3) C:\complete-no-digispark.ps1
+4) That's it :-)
+
   
