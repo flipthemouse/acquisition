@@ -32,6 +32,7 @@ I believe in 1-2 days from 18.04.2019 this should be fixed.
   a) If you add something or change be aware that the Digispark has limited storage (8K).<br/>
   b) When using variables be aware that the storage will be shorten for the memory.<br/>
   c) This code uses already approx 60% <br/>
+  d) The suspect needs an internet connection to obtain the payload. br/>
 5) **Unplug multiple displays.** Just use one display !
   
 # Upload to DigiSpark
