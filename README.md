@@ -8,7 +8,7 @@ For windows 7 you need to increase the delay time.<br/>
 The script should run just once. Windows 7 support ends in January 2020. ;-) <br/>
 I am still working on it.<br/><br/>
 If you like my effort, help me to create more.
-Paypal is currently sleeping that's why the button doesn't work yet. :-(
+Paypal is currently sleeping that's why the button doesn't work yet. :-( <br/>
 I believe in 1-2 days from 18.04.2019 this should be fixed.
 
 # Donation Button
