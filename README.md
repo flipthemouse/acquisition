@@ -1,7 +1,7 @@
 # Automatic Forensics Acquisition Toolset<br/>
  **Digispark attiny85**<br/>
 Supports **Windows 10** and **7** <br/>
-Using **wimpmem** and **ftkimager**<br/>
+Using **winpmem** and **ftkimager**<br/>
 Other Windows OS not been tested yet<br/>
 **Linux/Unix support under development**<br/><br/>
 Product under **GNU General Public License**<br/><br/>
